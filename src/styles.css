@@ -1,0 +1,19 @@
+.center_y {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+}
+
+html,
+body {
+  height: 100%;
+}
+body {
+  margin: 0;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+
+button {
+  outline: none !important;
+  box-shadow: none !important;
+}

@@ -1,0 +1,66 @@
+{
+  "blogs": [
+    {
+      "id": "1",
+      "title": "How to CRUD in Angular + Firebase Firestore",
+      "author": "J Stepanyan",
+      "stort_desc": "Angular is the most popular framework for building single page web applications. Although i said single page but it doesn't necessarily mean that your application can contain only one page. You can create a website with dozens of pages using Angular. The framework itself (latest versions) is well optimized thanks to amazing team and community, however when it comes to performance we should always think about few things that can make our application run fast and smooth.",
+      "image": "https://miro.medium.com/max/700/1*EqcYRzpOaC37TOhS-RqXtA.png",
+      "datedata": "2020-10-27"
+    },
+    {
+      "id": "2",
+      "title": "Share Component Data With Other Components in Angular 10",
+      "author": "Jeroen Ouwehand",
+      "stort_desc": "For new developers, this is a daunting field. It’s loaded with technologies and jargon and abbreviations. Most particularly it’s loaded with a bewildering number of names of “things”: Bower, Gulp, React, Bootstrap, LESS, NPM, jQuery, Foundation, Elm, ES6, Webpack, Redux, Ember, Node, MVC, VanillaJS, Babel, Docker, Underscore, Vue, JSX, Angular, Grunt, Typescript, ES-Next, Sass, Stylus, ES2015, Express, Python, Jade, ESLint, Bulma, BEM, and an infinite array of others.",
+      "image": "https://miro.medium.com/max/700/0*UApTnC4Gg0VeDgfZ",
+      "datedata": "2020-10-27"
+    },
+    {
+      "id": "3",
+      "title": "Learning Python: From Zero to Hero",
+      "author": "TK",
+      "stort_desc": "For new developers, this is a daunting field. It’s loaded with technologies and jargon and abbreviations. Most particularly it’s loaded with a bewildering number of names of “things”: Bower, Gulp, React, Bootstrap, LESS, NPM, jQuery, Foundation, Elm, ES6, Webpack, Redux, Ember, Node, MVC, VanillaJS, Babel, Docker, Underscore, Vue, JSX, Angular, Grunt, Typescript, ES-Next, Sass, Stylus, ES2015, Express, Python, Jade, ESLint, Bulma, BEM, and an infinite array of others.",
+      "image": "https://miro.medium.com/max/1000/1*ueWmI48uuShON-hX7LwI0w.png",
+      "datedata": "2020-10-27"
+    },
+    {
+      "id": "4",
+      "title": "The Next Level of Data Visualization in Python",
+      "author": "killmonger",
+      "stort_desc": "For new developers, this is a daunting field. It’s loaded with technologies and jargon and abbreviations. Most particularly it’s loaded with a bewildering number of names of “things”: Bower, Gulp, React, Bootstrap, LESS, NPM, jQuery, Foundation, Elm, ES6, Webpack, Redux, Ember, Node, MVC, VanillaJS, Babel, Docker, Underscore, Vue, JSX, Angular, Grunt, Typescript, ES-Next, Sass, Stylus, ES2015, Express, Python, Jade, ESLint, Bulma, BEM, and an infinite array of others.",
+      "image": "https://miro.medium.com/max/660/1*D10-b01-wu-Unv-2WThIsQ.png",
+      "datedata": "2020-10-27"
+    },
+    {
+      "id": "5",
+      "title": "A Complete Machine Learning Project Walk-Through in Python: Part One",
+      "author": "killmonger",
+      "stort_desc": "Reading through a data science book or taking a course, it can feel like you have the individual pieces, but don’t quite know how to put them together. Taking the next step and solving a complete machine learning problem can be daunting, but preserving and completing a first project will give you the confidence to tackle any data science problem. This series of articles will walk through a complete machine learning solution with a real-world dataset to let you see how all the pieces come together.",
+      "image": "https://miro.medium.com/max/1000/1*IjshGINnTET1wffZoC2LyA.jpeg",
+      "datedata": "2020-10-27"
+    }
+  ],
+  "Categories": [
+    {
+      "id": "1",
+      "title": "Future"
+    },
+    {
+      "id": "2",
+      "title": "Technology"
+    },
+    {
+      "id": "3",
+      "title": "Health"
+    },
+    {
+      "id": "4",
+      "title": "Business"
+    },
+    {
+      "id": "5",
+      "title": "Programming"
+    }
+  ]
+}
